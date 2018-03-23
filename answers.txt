@@ -1,0 +1,4 @@
+11 commits
+Last commit at: Tue Mar 20 14:21:18 2018 +0200
+Author: Stepan Bolotnikov <stjoopa@gmail.com>
+cebfb97: Added local configuration data
